@@ -1,0 +1,22 @@
+C:\Users\MONSTER\Desktop\alarm c#\ALarm1\ALarm1\bin\Debug\ALarm1.exe.config
+C:\Users\MONSTER\Desktop\alarm c#\ALarm1\ALarm1\bin\Debug\ALarm1.exe
+C:\Users\MONSTER\Desktop\alarm c#\ALarm1\ALarm1\bin\Debug\ALarm1.pdb
+C:\Users\MONSTER\Desktop\alarm c#\ALarm1\ALarm1\obj\Debug\ALarm1.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\alarm c#\ALarm1\ALarm1\obj\Debug\ALarm1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\alarm c#\ALarm1\ALarm1\obj\Debug\ALarm1.Form1.resources
+C:\Users\MONSTER\Desktop\alarm c#\ALarm1\ALarm1\obj\Debug\ALarm1.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\alarm c#\ALarm1\ALarm1\obj\Debug\ALarm1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\alarm c#\ALarm1\ALarm1\obj\Debug\ALarm1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\alarm c#\ALarm1\ALarm1\obj\Debug\ALarm1.exe
+C:\Users\MONSTER\Desktop\alarm c#\ALarm1\ALarm1\obj\Debug\ALarm1.pdb
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\alarm c#\ALarm1\ALarm1\bin\Debug\ALarm1.exe.config
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\alarm c#\ALarm1\ALarm1\bin\Debug\ALarm1.exe
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\alarm c#\ALarm1\ALarm1\bin\Debug\ALarm1.pdb
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\alarm c#\ALarm1\ALarm1\obj\Debug\ALarm1.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\alarm c#\ALarm1\ALarm1\obj\Debug\ALarm1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\alarm c#\ALarm1\ALarm1\obj\Debug\ALarm1.Form1.resources
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\alarm c#\ALarm1\ALarm1\obj\Debug\ALarm1.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\alarm c#\ALarm1\ALarm1\obj\Debug\ALarm1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\alarm c#\ALarm1\ALarm1\obj\Debug\ALarm1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\alarm c#\ALarm1\ALarm1\obj\Debug\ALarm1.exe
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\alarm c#\ALarm1\ALarm1\obj\Debug\ALarm1.pdb
